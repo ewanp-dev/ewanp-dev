@@ -2,8 +2,6 @@ Hello! 👋</h1>
 
 <p>I am Ewan Palmer, a Pipeline TD/3D Artist</b></p>
 
-[![Home](https://img.shields.io/badge/%F0%9F%8F%A0-Home-22AA00)](https://ColinKennedy.github.io)
-[![Resume](https://img.shields.io/badge/Resume-blue)](https://colinkennedy.github.io/resources/resume.pdf)
 <a href='https://www.linkedin.com/in/ewanpalmervfx'>
     <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' height=20>
 </a>
