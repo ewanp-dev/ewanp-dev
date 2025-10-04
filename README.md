@@ -6,7 +6,6 @@ Hello! 👋</h1>
     <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' height=20>
 </a>
 
----
 
 <h2>Software Stack</h2>
 
