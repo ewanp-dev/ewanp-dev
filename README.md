@@ -1,7 +1,6 @@
-Hello! 👋</h1>
+<h1>Ewan Palmer | Pipeline TD/3D Artist</h1>
 
-<p>I am Ewan Palmer, a Pipeline TD/3D Artist</b></p>
-
+<h2>Socials</h2>
 <a href='https://www.linkedin.com/in/ewanpalmervfx'>
     <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' height=20>
 </a>
@@ -17,6 +16,12 @@ Hello! 👋</h1>
 
 <h2>Stats</h2>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=ewanp-dev&theme=dark&hide_border=true" alt="ewanp-dev's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewanp-dev&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ewanp-dev's GitHub Stats" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=ewanp-dev&theme=dark&hide_border=true" alt="ewanp-dev's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewanp-dev&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=386em" alt="ewanp-dev's GitHub Stats" />
+</div>
+
+<h2>Active Projects</h2>
+<div align="center">
+    <a href="https://github.com/ewanp-dev/usd-dependency-viewer"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=ewanp-dev&repo=usd-dependency-viewer&theme=dark&hide_border=true"/></a>
+    <a href="https://github.com/ewanp-dev/qt-force-directed-graph-framework"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=ewanp-dev&repo=qt-force-directed-graph-framework&theme=dark&hide_border=true"/></a>
 </div>
