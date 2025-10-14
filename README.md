@@ -17,7 +17,7 @@
 <h2>Stats</h2>
 <div align="center">
     <img height="180em" src="https://streak-stats.demolab.com?user=ewanp-dev&theme=dark&hide_border=true" alt="ewanp-dev's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewanp-dev&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=386em" alt="ewanp-dev's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewanp-dev&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=320em" alt="ewanp-dev's GitHub Stats" />
 </div>
 
 <h2>Active Projects</h2>
