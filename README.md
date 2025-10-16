@@ -1,17 +1,23 @@
 <h1>Ewan Palmer | Pipeline TD/3D Artist</h1>
 
 <h2>Socials</h2>
+<div align="center">
 <a href='https://www.linkedin.com/in/ewanpalmervfx'>
-    <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' height=20>
+    <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'>
 </a>
+</div>
 
 
 <h2>Software & Languages</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Houdini-FF4713?logo=houdini&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Autodesk%20Maya-37A5CC?logo=autodeskmaya&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Nuke-000?logo=nuke&logoColor=000&style=for-the-badge&color=FCB937&labelColor=FCB937">
+    
 </div>
 
 <h2>Stats</h2>
