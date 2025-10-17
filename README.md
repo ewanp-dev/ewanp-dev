@@ -1,9 +1,14 @@
 <h1>Ewan Palmer | Pipeline TD/3D Artist</h1>
+I am a Pipeline Developer focusing on developing USD Pipelines, building 3D software tools and creating GUI Applications. I am also a 3D Hard Surface modeller in my free time focusing on realism and subdivision workflows.
+
 
 <h2>Socials</h2>
 <div align="center">
 <a href='https://www.linkedin.com/in/ewanpalmervfx'>
     <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'>
+</a>
+<a href='https://www.instagram.com/ewanpalmer.art/'>
+    <img src='https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=for-the-badge'>
 </a>
 </div>
 
