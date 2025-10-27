@@ -1,5 +1,5 @@
 <h1>Ewan Palmer | Pipeline TD/3D Artist</h1>
-I am a Pipeline Developer focusing on developing USD Pipelines, building 3D software tools and creating GUI Applications. I am alsom a 3D Artist in my own time focusing on Lookdev & Hard-Surface modelling, specialising realism and subdivision workflows.
+I am a Pipeline Developer focusing on developing USD Pipelines, building tools for 3D DCCs and creating GUI Applications. I am also a 3D Artist in my own time focusing on Lookdev & Hard-Surface modelling, specialising in realism and subdivision workflows.
 
 
 <h2>Socials</h2>
