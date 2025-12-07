@@ -33,6 +33,6 @@ I am a Pipeline Developer focusing on developing USD Pipelines, building tools f
 
 <h2>Active Projects</h2>
 <div align="center">
-    <a href="https://github.com/ewanp-dev/usd-dependency-viewer"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=ewanp-dev&repo=usd-dependency-viewer&theme=dark&hide_border=true"/></a>
-    <a href="https://github.com/ewanp-dev/qt-force-directed-graph-framework"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=ewanp-dev&repo=qt-force-directed-graph-framework&theme=dark&hide_border=true"/></a>
+    <a href="https://github.com/ewanp-dev/usd-dependency-viewer"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=ewanp-dev&repo=usd-dependency-viewer&theme=dark&hide_border=true" alt="usd-dependency-viewer"/></a>
+    <a href="https://github.com/ewanp-dev/qt-force-directed-graph-framework"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=ewanp-dev&repo=qt-force-directed-graph-framework&theme=dark&hide_border=true" alt="qt-force-directed-graph-framework"/></a>
 </div>
