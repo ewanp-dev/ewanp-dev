@@ -27,11 +27,12 @@ I am a Pipeline Developer focusing on developing USD Pipelines, building tools f
 
 <h2>Stats</h2>
 <div align="center">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewanp-dev&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=280em" alt="ewanp-dev's GitHub Stats" />
+    <a href="https://github.com/ewanp-dev?tab=repositories"><img height="180em" src="https://cards.parkerbritt.com/streak-stats/?user=ewanp-dev&theme=Dark&hide_border=true&border_radius=2&card_width=455em"/></a>
+    <a href="https://github.com/ewanp-dev?tab=repositories"><img height="180em" src="https://git-readme-stats.parkerbritt.com/api/top-langs/?username=ewanp-dev&theme=dark&show_icons=true&hide_border=true&layout=compact&border_radius=2&hide_title&card_width=386em"/></a>
 </div>
 
 <h2>Active Projects</h2>
 <div align="center">
-    <a href="https://github.com/ewanp-dev/usd-dependency-viewer"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=ewanp-dev&repo=usd-dependency-viewer&theme=dark&hide_border=true" alt="usd-dependency-viewer"/></a>
-    <a href="https://github.com/ewanp-dev/qt-force-directed-graph-framework"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=ewanp-dev&repo=qt-force-directed-graph-framework&theme=dark&hide_border=true" alt="qt-force-directed-graph-framework"/></a>
+  <a href="https://github.com/ewanp-dev/usdshade-mtlx"><img align="center" width="421em" src="https://git-readme-stats.parkerbritt.com/api/pin/?username=ewanp-dev&repo=usdshade-mtlx&theme=dark&hide_border=true&border_radius=2"/></a>
+  <a href="https://github.com/ewanp-dev/usd-dependency-viewer"><img align="center" width="421em" src="https://git-readme-stats.parkerbritt.com/api/pin/?username=ewanp-dev&repo=usd-dependency-viewer&theme=dark&hide_border=true&border_radius=2"/></a>
 </div>
